@@ -1,2 +1,2 @@
 # ALXprodev-Devops
-ensuring parallel processing 
+Bash Automation
